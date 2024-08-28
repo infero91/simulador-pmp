@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador PMP</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Carátula Inicial -->
+    <div class="cover-container">
+        <div class="cover-title">Simulador PMP</div>
+        <button class="cover-button" id="start-button">Iniciar Simulador</button>
+    </div>
+
+    <div class="container quiz-container">
+        <div class="progress-container">
+            <div class="progress">
+                <div class="progress-bar progress-bar-striped progress-bar-animated" id="progress-bar" style="width: 0%"></div>
+            </div>
+            <div class="timer">Tiempo: 1:27</div>
+        </div>
+
+        <h2 id="question">Cargando pregunta...</h2>
+
+        <div class="options" id="options-container">
+            <!-- Opciones de respuestas se cargarán aquí dinámicamente -->
+        </div>
+
+        <button id="confirm-button" class="btn btn-confirm" disabled>Confirmar</button>
+
+        <div id="result"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

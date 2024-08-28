@@ -1,0 +1,22 @@
+[
+    {
+        "question": "3.. Un equipo de proyecto ágil tiene dificultades para realizar un seguimiento de los cambios que se aplican al producto, porque su proceso es engorroso y propenso a errores. ¿Qué debe hacer el director del proyecto para abordar el problema?",
+        "options": [
+            "A. Asignar claramente la responsabilidad del proceso a una sola persona para garantizar la rendición de cuentas en caso de fallo.",
+            "B. Utilizar la siguiente retrospectiva para evaluar la eficacia del proceso y determinar si se necesitan cambios.",
+            "C. Buscar la aprobación del patrocinador para dejar de seguir este proceso y asumir el riesgo de eliminarlo.",
+            "D. Asegurar los fondos para adquirir una solución basada en software que pueda acelerar el proceso y reducir los errores."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "4.. El director de un nuevo proyecto híbrido está tratando de reunir al equipo del proyecto. Los mejores candidatos para los miembros del equipo están dispersos geográficamente, por lo que existe el riesgo de que esta situación interfiera con el rendimiento del proyecto. La colocación aumentaría drásticamente los costos; Y debido a la fuerte competencia, la empresa está luchando financieramente para sobrevivir. ¿Qué debe hacer el director del proyecto?",
+        "options": [
+            "A. Asegurarse de que el equipo disponga de las herramientas adecuadas para la colaboración virtual.",
+            "B. Insistir en reunir al equipo recortando el presupuesto en otro lugar.",
+            "C. Pedir al dueño del producto fondos adicionales para respaldar la colocación.",
+            "D. Organizar el trabajo de acuerdo con las ubicaciones de los miembros del equipo."
+        ],
+        "correctAnswer": 0
+    }
+]
